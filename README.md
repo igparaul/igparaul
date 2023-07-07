@@ -98,7 +98,7 @@
 <ul>
 
 <li>
-<a href="[https://linkedin.com/in/0xabdulkhalid](https://www.linkedin.com/in/raul-iglesiasp/)" target="_blank">
+<a href="[https://linkedin.com/in/raul-iglesiasp]" target="_blank">
 <img src="https://img.shields.io/badge/linkedin:  igparaul-%2300acee.svg?color=405DE6&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;"/>
 </a>
 </li>

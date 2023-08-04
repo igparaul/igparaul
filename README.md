@@ -4,7 +4,7 @@
 <!--h2 without bottom border-->
 <div id="user-content-toc">
   <ul align="center">
-    <summary><h2 style="display: inline-block">The important thing is not the path but the destination.</h2></summary>
+    <summary><h2 style="display: inline-block">The important thing is not the destination but the path.</h2></summary>
   </ul>
 </div>
 

@@ -10,7 +10,7 @@
 
 
 <!--Intro start-->
-- 🔭 I’m currently finishing my Bachelor's Degree of Computer Engineering + Telecommunication Electronic Engineering in [UAB](https://www.uab.cat/).
+- 🔭 I’m currently working as Embedded Connectivity Enginner and I have studied a Bachelor's Degree of Computer Engineering + Telecommunication Electronic Engineering in [UAB](https://www.uab.cat/).
 
 - 🌱 I’m currently learning **Rust**
 
@@ -19,8 +19,6 @@
 - 💬 Ask me about **embedded systems**
 
 - 📫 Feel free to reach me out **igparaul@gmail.com**
-
-- ✍ I’m currently open for an Intern or a new job opportunity, this is [my resume]()
 <!--Intro end-->
 
 <br>
